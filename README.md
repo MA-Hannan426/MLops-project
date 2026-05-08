@@ -35,6 +35,29 @@ This project uses Machine Learning models to forecast sales trends and automate 
 
 ---
 
+## Tech Stack
+- Programming & ML
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- XGBoost
+- Visualization
+- Matplotlib
+- Seaborn
+- Plotly
+
+## MLOps Tools
+- MLflow
+- DVC
+- Docker
+- GitHub Actions
+- FastAPI
+- Kubernetes
+- Airflow
+
+---
+
 # 🏗️ Project Architecture
 
 ```text
