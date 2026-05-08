@@ -52,7 +52,7 @@ This project uses Machine Learning models to forecast sales trends and automate 
 - DVC
 - Docker
 - GitHub Actions
-- FastAPI
+- Fast API
 - Kubernetes
 - Airflow
 - Promethius
