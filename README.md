@@ -55,6 +55,8 @@ This project uses Machine Learning models to forecast sales trends and automate 
 - FastAPI
 - Kubernetes
 - Airflow
+- Promethius
+- Grafana
 
 ---
 
